@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+  }
+  .row{
+      width: 100%;
+  }
+  header{
+      background-color: #87509c;
+  }
+  .container{
+      width: 90%;
+      margin: auto;
+  }
+  #service{
+      background-color: #17c2a4;
+      color: #fff;
+  }
